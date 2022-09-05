@@ -1,0 +1,9 @@
+
+Package Manager:
+
+    Windows:  choco, winget
+
+ 
+Cygwin:
+
+    setup.exe -q  -P xxx   [安装]

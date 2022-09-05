@@ -1,0 +1,125 @@
+--------------------------------------------------------
+Architecture
+--------------------------------------------------------
+
+See MIPS Run --Dominic Sweetman
+
+
+--------------------------------------------------------
+Autobiography
+--------------------------------------------------------
+
+EYE OF THE HURRICANE --Richard Bellman
+
+RANDOM CURVES, Journeys of a Mathematician --Neal Koblitz
+
+--------------------------------------------------------
+   Algorithm
+--------------------------------------------------------
+
+A History of Algorithms From the Pebble to the Microchip  --Jean-Luc Chabert Ed.
+
+Algorithms --Robert Sedgewick, Kevin Wayne
+
+Introduction to Algorithms --Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+
+Encyclopedia of Algorithms --Ming-Yang Kao
+
+Algorithm Design --Jon Kleinberg, Éva Tardos
+
+The Algorithm Design Manual --Steven S. Skiena
+
+Image and Video Compression for Multimedia Engineering --Yun-Qing Shi, Huifang Sun
+
+Graphs, Networks and Algorithms --Dieter Jungnickel
+
+The Art of Computer Programming --Donald Knuth
+
+Flexible Pattern Matching in Strings --Gonzalo Navarro, Mathieu Raffinot
+
+--------------------------------------------------------
+   Compiler
+--------------------------------------------------------
+
+A Retargetable C Compiler Design and Implementation --Christopher W. Fraser,David R. Hanson
+
+Engineering a Compiler --Keith D.Copper, Linda Torczon
+
+Advanced C and C++ Compling --Milan Stevanovic
+
+GCC The Complete Reference --Arthur Griffith
+
+程序员的自我修养 链接、装在与库  --俞甲子，石凡，潘爱民
+
+LLVM essentials & LLVM cookbook --Suyog Sarda, Mayur Pandey
+
+Getting Started with LLVM Core Libraries --Bruno Cardoso Lopes, Rafael Auler
+
+Learn LLVM 12 --Kai Nacke [user friendly cmake]
+
+--------------------------------------------------------
+Computation
+--------------------------------------------------------
+
+--------------------------------------------------------
+   Cryptography
+--------------------------------------------------------
+
+Handbook of Applied Cryptography --Alfred Menezes, Paul van Oorschot, Scott Vanstone
+
+Cryptography and Network Security --William Stallings
+
+A Course In Number Theory and Cryptography --Neal Koblitz --GTM114
+
+Network Security with OpenSSL --Pravir Chandra, Matt Messier, John Viega 
+
+Openssl 编程 --江南计算技术研究所 赵春平
+
+--------------------------------------------------------
+   Database
+--------------------------------------------------------
+
+Database Systems The Complete Book --Garcia-Molina, Ullman, Widom
+
+
+--------------------------------------------------------
+   Graphy Theory
+--------------------------------------------------------
+
+Graph theory with application to engineering and computer science --Narsingh Deo
+
+--------------------------------------------------------
+   Number Theory
+--------------------------------------------------------
+
+Elementary Number Theory with Applications --Koshy [排版极好，可以入门]
+
+--------------------------------------------------------
+   Programming Language
+--------------------------------------------------------
+
+Bash Cookbook           --Carl Albing, JP Vossen, Cameron Newham
+
+Programming Erlang   --Joe Armstrong
+
+Programming in Scala --Martin Odersky, Lex Spoon, Bill Venners
+
+Formal Language and Their Relation to Automata --Hopcroft, Ullman
+
+X86 Assembly Language and C Fundamentals --Joseph Cavanagh
+
+--------------------------------------------------------
+Transaction
+--------------------------------------------------------
+
+Transaction Processing: Concepts and Techniques --Jim Gray, Andreas Reuter
+
+Transactional Information Systems, Theory, Algorithms, and the Practice of Concurrency Control and Recovery --Gerhard Weikum, Gottfried Vossen
+
+--------------------------------------------------------
+Src
+--------------------------------------------------------
+
+c4
+lua
+redis

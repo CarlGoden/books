@@ -1,0 +1,18 @@
+
+    1: print "Hello World"    [optput]
+
+    2: print "Hello XXX"       [input]
+
+    3: fibonacci  [function branch iterate recursion]
+
+    4: transfer by value/pointer/reference, object model
+
+    5: dissect a csv file  [string, class, vector, memory model]
+
+    6: csv to dbms [map, hash, regex]
+
+    7: connect dbms [socket, thread]
+
+    8: read open source project
+
+    9: application, designation, specification
