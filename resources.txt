@@ -1,8 +1,9 @@
-git@github.com:ITI/ICS-Security-Tools.git
-
+openssl-exercise:  https://resources.oreilly.com/examples/9780596002701.git
 
 ------
 Series Books
+
+Texts in Computer Science
 
 Synthesis Lectures on Computer Architecture
 
