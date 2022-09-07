@@ -1,0 +1,14 @@
+
+--------------------------------------------------------
+   Number Theory
+--------------------------------------------------------
+
+Elementary Number Theory with Applications --Koshy [排版极好，可以入门]
+
+Transcendental and algebraic numbers --Gelfond
+
+--------------------------------------------------------
+   Graphy Theory
+--------------------------------------------------------
+
+Graph theory with application to engineering and computer science --Narsingh Deo

@@ -37,6 +37,8 @@ The Art of Computer Programming --Donald Knuth
 
 Flexible Pattern Matching in Strings --Gonzalo Navarro, Mathieu Raffinot
 
+Compact Data Structures --Gonzalo Navarro
+
 --------------------------------------------------------
    Compiler
 --------------------------------------------------------
@@ -49,6 +51,8 @@ Advanced C and C++ Compling --Milan Stevanovic
 
 GCC The Complete Reference --Arthur Griffith
 
+GNU Compiler Collection Internals --Richard M. Stallman
+
 程序员的自我修养 链接、装在与库  --俞甲子，石凡，潘爱民
 
 LLVM essentials & LLVM cookbook --Suyog Sarda, Mayur Pandey
@@ -57,9 +61,12 @@ Getting Started with LLVM Core Libraries --Bruno Cardoso Lopes, Rafael Auler
 
 Learn LLVM 12 --Kai Nacke [user friendly cmake]
 
+The SSA Representation Framework: Semantics, Analyses and GCC Implementation --Sebastian POP
 --------------------------------------------------------
 Computation
 --------------------------------------------------------
+
+A Hybrid Finite Automaton for Practical Deep Packet Inspection --Becchi, Crowley
 
 --------------------------------------------------------
    Cryptography
@@ -81,18 +88,13 @@ Openssl 编程 --江南计算技术研究所 赵春平
 
 Database Systems The Complete Book --Garcia-Molina, Ullman, Widom
 
-
 --------------------------------------------------------
-   Graphy Theory
---------------------------------------------------------
-
-Graph theory with application to engineering and computer science --Narsingh Deo
-
---------------------------------------------------------
-   Number Theory
+   Linguistics
 --------------------------------------------------------
 
-Elementary Number Theory with Applications --Koshy [排版极好，可以入门]
+DYNAMICS of MEANING Anaphora, Presupposition, and the Theory of Grammar --Gennaro Chierchia
+
+Logic in Grammar Polarity, Free Choice, and Intervention --Gennaro Chierchia
 
 --------------------------------------------------------
    Programming Language
@@ -115,6 +117,24 @@ Transaction
 Transaction Processing: Concepts and Techniques --Jim Gray, Andreas Reuter
 
 Transactional Information Systems, Theory, Algorithms, and the Practice of Concurrency Control and Recovery --Gerhard Weikum, Gottfried Vossen
+
+--------------------------------------------------------
+Windows
+--------------------------------------------------------
+
+Windows Internals System architecture, processes,threads, memory management,and more --Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon
+
+Microsoft Word Secrets --Flavio Morgado
+
+Programming Windows --Charles Petzoid
+
+Windows Programming --wikibooks
+
+BegInnIng vIsual C++ --Ivor Horton
+
+PROFESSIONAL VISUAL STUDIO 2017 --Bruce Johnson
+
+Mastering Visual Studio 2019 --Kunal Chowdhury
 
 --------------------------------------------------------
 Src
