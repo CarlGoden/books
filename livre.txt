@@ -37,6 +37,8 @@ The Art of Computer Programming --Donald Knuth
 
 Flexible Pattern Matching in Strings --Gonzalo Navarro, Mathieu Raffinot
 
+Compact Data Structures --Gonzalo Navarro
+
 --------------------------------------------------------
    Compiler
 --------------------------------------------------------
@@ -60,6 +62,8 @@ Learn LLVM 12 --Kai Nacke [user friendly cmake]
 --------------------------------------------------------
 Computation
 --------------------------------------------------------
+
+A Hybrid Finite Automaton for Practical Deep Packet Inspection --Becchi, Crowley
 
 --------------------------------------------------------
    Cryptography
@@ -89,6 +93,14 @@ Database Systems The Complete Book --Garcia-Molina, Ullman, Widom
 Graph theory with application to engineering and computer science --Narsingh Deo
 
 --------------------------------------------------------
+   Linguistics
+--------------------------------------------------------
+
+DYNAMICS of MEANING Anaphora, Presupposition, and the Theory of Grammar --Gennaro Chierchia
+
+Logic in Grammar Polarity, Free Choice, and Intervention --Gennaro Chierchia
+
+--------------------------------------------------------
    Number Theory
 --------------------------------------------------------
 
@@ -115,6 +127,20 @@ Transaction
 Transaction Processing: Concepts and Techniques --Jim Gray, Andreas Reuter
 
 Transactional Information Systems, Theory, Algorithms, and the Practice of Concurrency Control and Recovery --Gerhard Weikum, Gottfried Vossen
+
+--------------------------------------------------------
+Windows
+--------------------------------------------------------
+
+Windows Internals System architecture, processes,threads, memory management,and more --Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon
+
+Microsoft Word Secrets --Flavio Morgado
+
+Programming Windows --Charles Petzoid
+
+Windows Programming --wikibooks
+
+BegInnIng vIsual C++ --Ivor Horton
 
 --------------------------------------------------------
 Src
