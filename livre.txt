@@ -62,6 +62,7 @@ Getting Started with LLVM Core Libraries --Bruno Cardoso Lopes, Rafael Auler
 Learn LLVM 12 --Kai Nacke [user friendly cmake]
 
 The SSA Representation Framework: Semantics, Analyses and GCC Implementation --Sebastian POP
+
 --------------------------------------------------------
 Computation
 --------------------------------------------------------
@@ -95,6 +96,10 @@ Database Systems The Complete Book --Garcia-Molina, Ullman, Widom
 DYNAMICS of MEANING Anaphora, Presupposition, and the Theory of Grammar --Gennaro Chierchia
 
 Logic in Grammar Polarity, Free Choice, and Intervention --Gennaro Chierchia
+
+AN INTRODUCTION TO ANCIENT GREEK A Literary Approach --Luschnig
+
+A Comparative Grammar Of the Sanscrit, Zend, Greek, Latin, Lithuanian, Gothic, German and Sclavonic Languages --Bopp
 
 --------------------------------------------------------
    Programming Language
