@@ -107,15 +107,21 @@ A Comprehensive Russian Grammar --Terence Wade
    Programming Language
 --------------------------------------------------------
 
-Bash Cookbook           --Carl Albing, JP Vossen, Cameron Newham
+Bash Cookbook  --Carl Albing, JP Vossen, Cameron Newham
+
+The Scheme Programming Language --R. Kent Dybvig
 
 Programming Erlang   --Joe Armstrong
+
+Programming in Haskell --Graham Hutton
 
 Programming in Scala --Martin Odersky, Lex Spoon, Bill Venners
 
 Formal Language and Their Relation to Automata --Hopcroft, Ullman
 
 X86 Assembly Language and C Fundamentals --Joseph Cavanagh
+
+History of Programming Languages --WEXELBLAT
 
 --------------------------------------------------------
 Transaction
