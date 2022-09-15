@@ -4,7 +4,6 @@ Architecture
 
 See MIPS Run --Dominic Sweetman
 
-
 --------------------------------------------------------
 Autobiography
 --------------------------------------------------------
@@ -62,6 +61,8 @@ Getting Started with LLVM Core Libraries --Bruno Cardoso Lopes, Rafael Auler
 Learn LLVM 12 --Kai Nacke [user friendly cmake]
 
 The SSA Representation Framework: Semantics, Analyses and GCC Implementation --Sebastian POP
+
+The Compiler design handbook : optimizations and machine code generation --Srikant, Shankar
 
 --------------------------------------------------------
 Computation
