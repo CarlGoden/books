@@ -1,4 +1,8 @@
-openssl-exercise:  https://resources.oreilly.com/examples/9780596002701.git
+openssl-exercise: 
+
+    https://resources.oreilly.com/examples/9780596002701.git
+
+     https://github.com/mrpre/atls.git
 
 ------
 Series Books
