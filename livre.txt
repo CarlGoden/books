@@ -125,6 +125,12 @@ X86 Assembly Language and C Fundamentals --Joseph Cavanagh
 History of Programming Languages --WEXELBLAT
 
 --------------------------------------------------------
+   Parallel
+--------------------------------------------------------
+
+An Introduction to Parallel Programming --Pacheco, Malensek [MPI, pthread, openMP, openCL, CUDA]
+
+--------------------------------------------------------
 Transaction
 --------------------------------------------------------
 
