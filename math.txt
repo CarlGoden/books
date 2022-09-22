@@ -1,3 +1,13 @@
+--------------------------------------------------------
+   Algebra
+--------------------------------------------------------
+
+Galois Theory --David Cox
+
+
+Galois Theory --Ian Stewart
+
+Galois Theory,  Fermat's Last Theorem,  Riemann's Zeta Function --Edwards
 
 --------------------------------------------------------
    Number Theory
